@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "300979651451",
+    "firebase_url": "https://important-notes-hoversfw.firebaseio.com",
+    "project_id": "important-notes-hoversfw",
+    "storage_bucket": "important-notes-hoversfw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300979651451:android:bd3524d008b7480acff3de",
+        "android_client_info": {
+          "package_name": "com.hoversfw.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300979651451-h4g0u6r8nhadivcdqvcicsb9jpcv65kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMYZS91TVrqn4dEkLR4typ2-lOiaR6K04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300979651451-h4g0u6r8nhadivcdqvcicsb9jpcv65kl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
