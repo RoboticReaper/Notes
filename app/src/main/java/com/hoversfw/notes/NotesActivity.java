@@ -178,7 +178,7 @@ public class NotesActivity extends AppCompatActivity {
             case R.id.about:
                 AlertDialog.Builder builders = new AlertDialog.Builder(NotesActivity.this);
                 builders.setTitle("About this app")
-                        .setMessage("This is a note app, used for taking notes. Nothing too complex yet very usable. \n\nHover Software is made by civil software developers, in order to release pure and powerful softwares.\n\nCurrent version: 2.1.0")
+                        .setMessage("This is a note app, used for taking notes. Nothing too complex yet very usable. \n\nHover Software is made by civil software developers, in order to release pure and powerful softwares.\n\nCurrent version: 2.1.1\n\nCopyright Hover Software, all rights reserved.")
                         .setPositiveButton("Ok", new DialogInterface.OnClickListener() {
                             @Override
                             public void onClick(DialogInterface dialog, int which) {
